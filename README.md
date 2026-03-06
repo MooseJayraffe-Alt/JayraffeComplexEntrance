@@ -14,5 +14,5 @@ Make multiple complexes.
 Make a server selector with regions and names for certain areas.
 
 &nbsp; 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/images/Thumbnail.png)
 
